@@ -1,0 +1,23 @@
+{
+  "name":  "EDIT GUARDIAN",
+  "description": "Telegram bot example using python-telegram-bot",
+  "repository": "https://github.com/ashui501/EDIT-GUARDIAN-BOT",
+  "keywords": ["telegram", "bot", "python"],
+  "env": {
+    "TELEGRAM_TOKEN": {
+      "description": "Telegram bot token gen from @BotFather",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram user ID (owner)",
+      "required": true
+    }
+  },
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "stack": "heroku-22"
+}
