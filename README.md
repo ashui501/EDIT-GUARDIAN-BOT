@@ -2,6 +2,9 @@
 check main.py and check about repo
 
 ### Credit 
-+ [ʜᴀsɴᴀɪɴ ᴋʜᴀɴ](https://github.com/ashui501)
-+ [🄺🄰🅁🄼🄰](https://github.com/Infa)
-+ [sᴜᴋᴜɴᴀ 💔](https://github.com/ImmortalXnetwork)
++ [Aᴋɪʀᴀ Isʜɪᴋᴋɪ](https://github.com/ashui501)
++ [Aɴᴀs-Gᴛᴀsʜ](https://github.com/AwesomeXGtash)
++ [Sᴘᴇᴇᴅʏ](https://github.com/Darklightining2008)
+
+### Network 
++ [Tᴇᴀᴍ Aᴘᴇx](https://t.me/TeamXApex)
