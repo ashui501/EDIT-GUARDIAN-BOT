@@ -1,2 +1,7 @@
 # EDIT-GUARDIAN-BOT
-A OWN CODE OF MINE OF EDIT GUARDIAN BOT ITS DELETE USER MSG IF THEY EDIT IF THE BOT CREATOR ITS WON'T DEL THE MSG
+check main.py and check about repo
+
+### Credit 
++ [ʜᴀsɴᴀɪɴ ᴋʜᴀɴ](https://github.com/ashui501)
++ [🄺🄰🅁🄼🄰](https://github.com/Infa)
++ [sᴜᴋᴜɴᴀ 💔](https://github.com/ImmortalXnetwork)
