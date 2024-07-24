@@ -8,3 +8,7 @@ check main.py and check about repo
 
 ### Network 
 + [Tᴇᴀᴍ Aᴘᴇx](https://t.me/TeamXApex)
+
+  
+### ANY ERRORS REPORT AT 
++ [Aᴘᴇx](https://t.me/ApeX_Chats)
